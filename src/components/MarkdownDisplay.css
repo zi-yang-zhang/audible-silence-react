@@ -1,0 +1,17 @@
+.markdown-display {
+    height: 500px;
+    width: 100%;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.input{
+    height: 50%;
+}
+.output{
+    height: 50%;
+    background: white;
+}
